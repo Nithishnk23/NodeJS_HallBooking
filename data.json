@@ -1,0 +1,62 @@
+[
+    {
+        "id":"1",
+        "numberofSeats": 100,
+        "additionalItems": ["AC","chairs","discolights"],
+        "price": 15000,
+        "ifBooked": "true",
+        "customerName": "vijay",
+        "date": "15-may-2024",
+        "startTime": "20-may-2024 at 12PM",
+        "endTime": "21-may-2024 at 11am",
+        "RoomNo": 1
+    },
+    {
+        "id":"2",
+        "numberofSeats": 100,
+        "additionalItems": ["AC","chairs","discolights"],
+        "price": 15000,
+        "ifBooked": "false",
+        "customerName": "",
+        "date": "",
+        "startTime": "",
+        "endTime": "",
+        "RoomNo": 2
+    },
+    {
+        "id":"3",
+        "numberofSeats": 50,
+        "additionalItems": ["AC","chairs"],
+        "price": 8000,
+        "ifBooked": "false",
+        "customerName": "",
+        "date": "",
+        "startTime": "",
+        "endTime": "",
+        "RoomNo": 3
+    },
+    {
+        "id":"4",
+        "numberofSeats": 100,
+        "additionalItems": ["AC","chairs","discolights"],
+        "price": 15000,
+        "ifBooked": "true",
+        "customerName": "Virat",
+        "date": "16-may-2024",
+        "startTime": "22-may-2024 at 12PM",
+        "endTime": "23-may-2024 at 11am",
+        "RoomNo": 4
+    },
+    {
+        "id":"5",
+        "numberofSeats": 200,
+        "additionalItems": ["AC","chairs","discolights", "buffet"],
+        "price": 20000,
+        "ifBooked": "true",
+        "customerName": "Ronaldo",
+        "date": "20-may-2024",
+        "startTime": "25-may-2024 at 12PM",
+        "endTime": "26-may-2024 at 11am",
+        "RoomNo": 5
+    }
+]
