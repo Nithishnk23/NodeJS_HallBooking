@@ -17,6 +17,7 @@ const hallData =[
         startTime: "20-may-2024 at 12PM",
         endTime: "21-may-2024 at 11am",
         RoomNo: 1,
+        RoomName: "Duplex",
     },
     {
         id:"2",
@@ -29,6 +30,7 @@ const hallData =[
         startTime: "",
         endTime: "",
         RoomNo: 2,
+        RoomName: "Duplex",
     },
     {
         id:"3",
@@ -41,6 +43,7 @@ const hallData =[
         startTime: "",
         endTime: "",
         RoomNo: 3,
+        RoomName: "Classic",
     },
     {
         id:"4",
@@ -53,6 +56,7 @@ const hallData =[
         startTime: "22-may-2024 at 12PM",
         endTime: "23-may-2024 at 11am",
         RoomNo: 4,
+        RoomName: "Duplex",
     },
     {
         id:"5",
@@ -65,6 +69,7 @@ const hallData =[
         startTime: "25-may-2024 at 12PM",
         endTime: "26-may-2024 at 11am",
         RoomNo: 5,
+        RoomName: "Suite",
     },
 ];
 
